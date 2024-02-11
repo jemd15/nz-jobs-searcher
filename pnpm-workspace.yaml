@@ -1,0 +1,3 @@
+packages:
+  - 'nz-jobs-searcher-api'
+  - 'nz-jobs-searcher-web'
